@@ -3,6 +3,11 @@
 ## Project Overview
 This Power BI dashboard provides sales analysis for AdventureWorks company. It visualizes key sales metrics across different dimensions including day of week, calendar quarter, geographical distribution, and customer commute distance.
 
+## Dashboard Preview
+![AdventureWorks Sales Dashboard](dashboard_preview.png)
+
+*Note: Add your screenshot image to a 'screenshots' folder in your repository and update the path above accordingly.*
+
 ## Features
 - **Sales by Day of Week**: Column chart showing sales distribution across weekdays
 - **Sales by Calendar Quarter**: Pie chart with customized colors for quarterly analysis
@@ -65,5 +70,5 @@ This project was created as part of the Microsoft Power BI course from Intellipa
 ## Author
 Created by Rahul Rajasekharan Menon
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
